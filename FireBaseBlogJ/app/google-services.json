@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "475941444173",
+    "firebase_url": "https://fir-blogj.firebaseio.com",
+    "project_id": "fir-blogj",
+    "storage_bucket": "fir-blogj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475941444173:android:9e3f62f1f18277ee",
+        "android_client_info": {
+          "package_name": "com.example.dsi.firebaseblogj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475941444173-llo1ac0klfp77sa1ruvmg108qrct1a96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dsi.firebaseblogj",
+            "certificate_hash": "abba80d797d86bc4cc6d5dc65b36e016fefcfb76"
+          }
+        },
+        {
+          "client_id": "475941444173-slfaf9v8ltomd1bu0e8i6ngjmqqtp07p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dsi.firebaseblogj",
+            "certificate_hash": "a84ba3764925ccf16afb578c931a786418b0088b"
+          }
+        },
+        {
+          "client_id": "475941444173-q5ci1dudpuad2hto128tdkti9snss8em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0D5zHeVaOJ6bRcxR04qc_O3bbXbZStqI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475941444173-q5ci1dudpuad2hto128tdkti9snss8em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
